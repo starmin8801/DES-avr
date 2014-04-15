@@ -39,3 +39,7 @@ Thumbs.db
 # Editors files #
 #################
 *.swp
+
+# Ignore netbeans #
+###################
+nbproject
